@@ -18,7 +18,7 @@
 ## Джерело даних
 
 **Посилання на датасет:**  
-[ВСТАВТЕ ПОСИЛАННЯ НА ДАНІ]
+(https://raw.githubusercontent.com/VikiTarasova/melbourne_housing-DTA/refs/heads/main/data/melb_data.csv)
 
 **Джерело Kaggle:**  
 https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot
